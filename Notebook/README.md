@@ -4,7 +4,7 @@ This folder contains Jupyter notebooks used for exploratory data analysis (EDA),
 
 ## Planned Notebooks
 
-### 01EDA
+### 1) EDA
 
 Exploratory analysis of the simulation dataset, including:
 
@@ -15,10 +15,10 @@ Exploratory analysis of the simulation dataset, including:
 - Shading depth vs EUI
 - Correlation analysis
 
-### 02 Surrogate Model
+### 2) Surrogate Model
 
 Training and validation of machine-learning surrogate models for EUI prediction.
 
-### 03 Inverse Design
+### 3) Inverse Design
 
 Performance-target-driven search for feasible facade parameter combinations.
