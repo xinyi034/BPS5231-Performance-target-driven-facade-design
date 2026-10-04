@@ -14,7 +14,6 @@ The proposed facade design variables include:
 - Glazing U-value
 - Solar Heat Gain Coefficient (SHGC)
 - Shading depth
-- Shading configuration
 
 ## Output Variable
 
