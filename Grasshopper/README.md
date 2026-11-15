@@ -35,4 +35,4 @@ The parametric model will be connected to Honeybee and EnergyPlus to generate bu
 
 ## Files
 
-- `facade_energy_model_v01.gh` - Grasshopper parametric facade and energy simulation model
+- `EUI_Final.gh` - Grasshopper parametric facade and energy simulation model
