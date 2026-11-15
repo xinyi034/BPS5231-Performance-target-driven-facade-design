@@ -10,9 +10,9 @@ Which combinations of glazing product, window-to-wall ratio, and shading depth m
 
 | Model input | Values used in the study |
 |---|---|
-| Window-to-wall ratio (WWR) | 30%, 40%, 50%, 60% |
 | Glazing U-value [W/(m²·K)] | Product-specific value |
 | Solar heat gain coefficient (SHGC) | Product-specific value |
+| Window-to-wall ratio (WWR) | 30%, 40%, 50%, 60% |
 | Shading depth [m] | 0.00, 0.30, 0.60, 0.90 |
 
 Each of the 10 glazing products retained its documented U-value and SHGC as a pair. Combining 10 products with 4 WWRs and 4 shading depths yielded **160 façade configurations**.
