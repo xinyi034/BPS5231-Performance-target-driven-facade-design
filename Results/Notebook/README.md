@@ -38,22 +38,6 @@ The Random Forest uses 300 trees and a random seed of 42. The held-out test case
 
 The notebook analyses existing EnergyPlus results; it does not run building energy simulations.
 
-## Outputs
-
-**`eui_final.zip` — evaluation results**
-
-- `split.csv`: development and test set assignments.
-- `metrics.csv`: MAE, RMSE, and R² for both models.
-- `development_cv_predictions.csv`: cross-validation predictions and absolute errors.
-- `heldout_test_predictions.csv`: independent test predictions and absolute errors.
-- `development_cv.png` and `heldout_test.png`: model comparison plots.
-
-**`facade_rf_v1.zip` — trained model package**
-
-- `random_forest.joblib`: saved Random Forest model.
-- `model_info.json`: feature order, units, model metadata, and software versions.
-- `requirements.txt`: package versions for loading and using the exported model.
-
 ## Scope
 
 The model applies to the façade parameter space and reference building represented by the simulation dataset. Its predictions support candidate screening; the corresponding EnergyPlus results are used to confirm whether a design meets the target EUI tolerance.
