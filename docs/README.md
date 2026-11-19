@@ -9,5 +9,5 @@ This folder contains project documentation prepared for the interim submission.
 
 ## Final Submission
 
-- Interim presentation slides
+- Final presentation slides
 - Conference-paper-style write-up
