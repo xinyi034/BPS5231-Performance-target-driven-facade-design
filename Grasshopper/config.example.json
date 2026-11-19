@@ -1,0 +1,14 @@
+{
+  "start_index": 80,
+  "end_index": 159,
+  "grasshopper_model": "model/FacadeAI_Final_Model_v1.ghx",
+  "input_csv": "data/input/FacadeAI_Input_Cases.csv",
+  "simulation_root": "data/simulation",
+  "existing_simulation_root": "data/existing_simulation",
+  "results_csv": "data/results/FacadeAI_Results_160.csv",
+  "results_workbook": "data/results/FacadeAI_Results_160.xlsx",
+  "workbook_template": "data/results/FacadeAI_Results_Template.xlsx",
+  "teammate_results_csv": "data/results/FacadeAI_Teammate_Results_AsProvided.csv",
+  "python_exe": "C:/Program Files/IES/VE 2025/apps/python/python.exe",
+  "openstudio_exe": "C:/openstudio-3.7.0/bin/openstudio.exe"
+}
